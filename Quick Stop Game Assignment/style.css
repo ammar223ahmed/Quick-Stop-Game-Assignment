@@ -1,0 +1,30 @@
+.cs{
+    font-size: 1.5em;
+    color: whitesmoke;
+}
+
+
+.lp{
+    color: whitesmoke;
+    font-size: 1.2em;
+    display: flex;
+    margin-right: 40em;
+
+}
+.ff{
+color: whitesmoke;    
+    font-size: 1.1em;
+}
+.ff input{
+padding: 13px;
+border-radius: 60PX;
+width: 15em;
+
+}
+.ff button{
+     font-size: 1.3em;
+     margin: 10px;
+}
+.jl{
+    color: whitesmoke;
+}
